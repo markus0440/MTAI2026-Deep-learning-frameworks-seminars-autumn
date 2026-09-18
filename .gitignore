@@ -79,6 +79,11 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Local seminar artifacts
+.DS_Store
+seminar_1/data/
+seminar_1/MTAI2026_Seminar_1_Introduction_to_pytorch_ru.ipynb
+
 # IPython
 profile_default/
 ipython_config.py
@@ -240,4 +245,3 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
-
